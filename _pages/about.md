@@ -80,8 +80,8 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 - *2019.09 - 2023.06*, Bachelor in Cyberspace Security. School of Cyberspace Security, Huazhong University of Science and Technology.
 
 # 📚 Academic Services
-- **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, Information Fusion
-- **Secondary Reviewer**: ACL 2024, EMNLP 2024, ICLR 2025, ICML 2025, ACL 2025, NeurIPS 2025 
+- **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, WSDM 2026, Information Fusion
+- **Secondary Reviewer**: ACL 2024, EMNLP 2024, ICLR 2025, ICML 2025, ACL 2025, NeurIPS 2025, EMNLP 2025
 
 # 👩🏻‍🏫 Teaching
 - *Teaching Assistant,* Freshman Seminar on Information Retrieval, Renmin University of China, Spring 2025
