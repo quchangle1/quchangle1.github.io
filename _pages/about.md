@@ -32,11 +32,6 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 📝 Publications 
-- **Retrieving Intent-covering Demonstrations for Clarification Generation in Conversational Search Systems**
-
-  Ziliang Zhao, **Changle Qu**, Zhicheng Dou, Haonan Chen, Jiajie Jin
-
-  **KDD 2025** \| [Paper]() 
 
 - **Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation**
 
@@ -60,7 +55,13 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   **Changle Qu**, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
 
-  **CIKM 2024** \| [Paper](https://dl.acm.org/doi/10.1145/3627673.3679847) 
+  **CIKM 2024** \| [Paper](https://dl.acm.org/doi/10.1145/3627673.3679847)
+
+- **Retrieving Intent-covering Demonstrations for Clarification Generation in Conversational Search Systems**
+
+  Ziliang Zhao, **Changle Qu**, Zhicheng Dou, Haonan Chen, Jiajie Jin
+
+  **KDD 2025** \| [Paper]() 
 
 - **ReCODE: Modeling Repeat Consumption with Neural ODE**
 
@@ -80,7 +81,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 - *2019.09 - 2023.06*, Bachelor in Cyberspace Security. School of Cyberspace Security, Huazhong University of Science and Technology.
 
 # 📚 Academic Services
-- **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, WSDM 2026, Information Fusion
+- **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, WSDM 2026, KDD 2026, Information Fusion
 - **Secondary Reviewer**: ACL 2024, EMNLP 2024, ICLR 2025, ICML 2025, ACL 2025, NeurIPS 2025, EMNLP 2025
 
 # 👩🏻‍🏫 Teaching
