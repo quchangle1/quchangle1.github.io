@@ -21,6 +21,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 My first-author paper ‘‘Uplift-RAG: Uplift-Driven Knowledge Preference Alignment for Retrieval-Augmented Generation’’ is accepted by **([EMNLP 2025 Findings](https://2025.emnlp.org/))**!
 - *2025.05*: &nbsp;🎉🎉 Our paper ‘‘Retrieving Intent-covering Demonstrations for Clarification Generation in Conversational Search Systems’’ is accepted by **([KDD 2025](https://kdd2025.kdd.org/))**!
 - *2025.04*: &nbsp;🎉🎉 My first-author paper ‘‘Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation’’ is accepted by **([SIGIR 2025](https://sigir2025.dei.unipd.it/))**!
 - *2025.02*: &nbsp;🎉🎉 My first-author paper ‘‘From exploration to mastery: enabling LLMs to master tools via self-driven interactions’’ is selected as an <span style="color: red;"><strong>Oral presentation (1.8%)</strong></span> at ICLR 2025!
@@ -44,7 +45,13 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
   **Changle Qu**, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
 
   **ICLR 2025** \| <span style="color: red;"><strong>Oral (1.8%)</strong></span> \| [Paper](https://openreview.net/pdf?id=QKBu1BOAwd)
+  
+- **Uplift-RAG: Uplift-Driven Knowledge Preference Alignment for Retrieval-Augmented Generation**
 
+  **Changle Qu**, Sunhao Dai, Hengyi Cai, Yiyang Cheng, Jun Xu, Shuaiqiang Wang, Dawei Yin
+
+  **EMNLP 2025 Findings** \| [Paper]()
+  
 - **Tool learning with large language models: A survey**
 
   **Changle Qu**, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
