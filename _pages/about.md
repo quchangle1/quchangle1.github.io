@@ -33,6 +33,11 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 
 # 📝 Publications 
+- **MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching**
+
+  **Changle Qu**, Sunhao Dai, Hengyi Cai, Jun Xu, Shuaiqiang Wang, Dawei Yin
+
+  **Arxiv** \| [Paper](https://arxiv.org/pdf/2601.10712) 
 
 - **Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation**
 
@@ -50,7 +55,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   **Changle Qu**, Sunhao Dai, Hengyi Cai, Yiyang Cheng, Jun Xu, Shuaiqiang Wang, Dawei Yin
 
-  **EMNLP 2025 Findings** \| [Paper]()
+  **EMNLP 2025 Findings** \| [Paper](https://aclanthology.org/2025.findings-emnlp.511/)
   
 - **Tool learning with large language models: A survey**
 
@@ -64,11 +69,23 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
   **CIKM 2024** \| [Paper](https://dl.acm.org/doi/10.1145/3627673.3679847)
 
+- **Towards ai search paradigm**
+
+  Baidu Search Team (23 authors including **Changle Qu**).
+
+  **Technical Report** \| [Paper](https://arxiv.org/pdf/2506.17188)
+  
+- **Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation.**
+
+  Ke Guo, **Changle Qu**, Xiao Zhang, Liqin Zhao, Shijun Wang, Yanan Niu and Jun Xu.
+
+  **WWW 2026** \| [Paper]() 
+
 - **Retrieving Intent-covering Demonstrations for Clarification Generation in Conversational Search Systems**
 
   Ziliang Zhao, **Changle Qu**, Zhicheng Dou, Haonan Chen, Jiajie Jin
 
-  **KDD 2025** \| [Paper]() 
+  **KDD 2025** \| [Paper](https://dl.acm.org/doi/10.1145/3711896.3737104) 
 
 - **ReCODE: Modeling Repeat Consumption with Neural ODE**
 
@@ -88,10 +105,11 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 - *2019.09 - 2023.06*, Bachelor in Cyberspace Security. School of Cyberspace Security, Huazhong University of Science and Technology.
 
 # 📚 Academic Services
-- **Program Committee / Reviewer**: SIGIR 2025, SIGIR-AP 2025, WSDM 2026, KDD 2026, Information Fusion
-- **Secondary Reviewer**: ACL 2024, EMNLP 2024, ICLR 2025, ICML 2025, ACL 2025, NeurIPS 2025, EMNLP 2025
+- **Program Committee / Reviewer**: SIGIR 2025-2026, SIGIR-AP 2025, WSDM 2026, KDD 2026 
+- **Secondary Reviewer**: ACL 2024-2026, EMNLP 2024, ICLR 2025, ICML 2025-2026, NeurIPS 2025, EMNLP 2025
 
 # 👩🏻‍🏫 Teaching
+- *Teaching Assistant,* Introduction to Big Data Analytics, Renmin University of China, Fall 2025
 - *Teaching Assistant,* Freshman Seminar on Information Retrieval, Renmin University of China, Spring 2025
 - *Teaching Assistant,* Introduction to Big Data Analytics, Renmin University of China, Fall 2024
 
