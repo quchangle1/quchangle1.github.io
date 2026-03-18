@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor’s degree from Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn)) in June 2023. My research interests include Tool Learning with Large Language Models, Recommender System, and Information Retrieval.
+I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR Lab](https://ruc-iir-lab.github.io/)) from the Gaoling School of Artificial Intelligence ([GSAI](http://ai.ruc.edu.cn/)), Renmin University of China ([RUC](https://www.ruc.edu.cn)), supervised by Prof. [Jun Xu](https://scholar.google.com/citations?user=su14mcEAAAAJ). I obtained my bachelor’s degree from Huazhong University of Science and Technology ([HUST](https://www.hust.edu.cn)) in June 2023. My research interests include Tool Learning with Large Language Models, Recommender System, and Information Retrieval.
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Our paper ‘‘Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation’’ is accepted by **([WWW 2026](https://www2026.thewebconf.org/))**!
 - *2025.08*: &nbsp;🎉🎉 My first-author paper ‘‘Uplift-RAG: Uplift-Driven Knowledge Preference Alignment for Retrieval-Augmented Generation’’ is accepted by **([EMNLP 2025 Findings](https://2025.emnlp.org/))**!
 - *2025.05*: &nbsp;🎉🎉 Our paper ‘‘Retrieving Intent-covering Demonstrations for Clarification Generation in Conversational Search Systems’’ is accepted by **([KDD 2025](https://kdd2025.kdd.org/))**!
 - *2025.04*: &nbsp;🎉🎉 My first-author paper ‘‘Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation’’ is accepted by **([SIGIR 2025](https://sigir2025.dei.unipd.it/))**!
@@ -106,7 +107,7 @@ I am a second-year Ph.D. candidate at Intelligent Information Retrieval Lab ([II
 
 # 📚 Academic Services
 - **Program Committee / Reviewer**: SIGIR 2025-2026, SIGIR-AP 2025, WSDM 2026, KDD 2026 
-- **Secondary Reviewer**: ACL 2024-2026, EMNLP 2024, ICLR 2025, ICML 2025-2026, NeurIPS 2025, EMNLP 2025
+- **Secondary Reviewer**: ACL 2024-2026, EMNLP 2024-2025, ICLR 2025, ICML 2025-2026, NeurIPS 2025
 
 # 👩🏻‍🏫 Teaching
 - *Teaching Assistant,* Introduction to Big Data Analytics, Renmin University of China, Fall 2025
