@@ -21,6 +21,7 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 My first-author paper ‘‘KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation’’ and our paper ‘‘Learning to Retrieve from Agent Trajectories’’ are accepted by **([SIGIR 2026](https://sigir2026.org/en-AU))**!
 - *2026.01*: &nbsp;🎉🎉 Our paper ‘‘Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation’’ is accepted by **([WWW 2026](https://www2026.thewebconf.org/))**!
 - *2025.08*: &nbsp;🎉🎉 My first-author paper ‘‘Uplift-RAG: Uplift-Driven Knowledge Preference Alignment for Retrieval-Augmented Generation’’ is accepted by **([EMNLP 2025 Findings](https://2025.emnlp.org/))**!
 - *2025.05*: &nbsp;🎉🎉 Our paper ‘‘Retrieving Intent-covering Demonstrations for Clarification Generation in Conversational Search Systems’’ is accepted by **([KDD 2025](https://kdd2025.kdd.org/))**!
@@ -38,7 +39,13 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
   **Changle Qu**, Sunhao Dai, Hengyi Cai, Jun Xu, Shuaiqiang Wang, Dawei Yin
 
-  **Arxiv** \| [Paper](https://arxiv.org/pdf/2601.10712) 
+  **Arxiv** \| [Paper](https://arxiv.org/pdf/2601.10712)
+
+- **KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation**
+
+  **Changle Qu**, Sunhao Dai, Ke Guo, Xiao Zhang, Liqin Zhao, Shijun Wang, Yannan Niu, Lantao Hu, Han Li, Jun Xu
+
+  **SIGIR 2026** \| [Paper]() 
 
 - **Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation**
 
@@ -76,9 +83,15 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
   **Technical Report** \| [Paper](https://arxiv.org/pdf/2506.17188)
   
-- **Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation.**
+- **Learning to Retrieve from Agent Trajectories**
 
-  Ke Guo, **Changle Qu**, Xiao Zhang, Liqin Zhao, Shijun Wang, Yanan Niu and Jun Xu.
+  Yuqi Zhou, Sunhao Dai, **Changle Qu**, Liang Pang, Jun Xu, Ji-Rong Wen.
+
+  **SIGIR 2026** \| [Paper]()
+  
+- **Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation**
+
+  Ke Guo, **Changle Qu**, Xiao Zhang, Liqin Zhao, Shijun Wang, Yanan Niu, Jun Xu.
 
   **WWW 2026** \| [Paper]() 
 
