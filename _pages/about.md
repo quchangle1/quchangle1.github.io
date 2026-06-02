@@ -70,7 +70,7 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
   **Changle Qu**, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen
 
-  **FCS** \| [Paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=49798) \| <a href="https://github.com/quchangle1/LLM-Tool-Survey"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/quchangle1/LLM-Tool-Survey?style=flat&logo=github&logoColor=black&labelColor=ffffff&color=ffffff&label=Stars"></a> 
+  **FCS** \| <span style="color: red;"><strong>Excellence Action Plan for China STM Journals</strong></span> \| [Paper](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=49798) 
 
 - **Towards completeness-oriented tool retrieval for large language models**
 
@@ -110,6 +110,8 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
 
 # 🎖 Honors and Awards
+- *2026.05* Excellence Action Plan for China STM Journals
+- *2026.05* Linghang Dean's Scholarship, Renmin University of China
 - *2025.02* ICLR 2025 Oral presentation (1.8%).
 - *2024.07* SIGIR 2024 Best Short Paper Nominees. 
 - *2022.10* Merit Student Scholarship in Huazhong University of Science and Technology.
