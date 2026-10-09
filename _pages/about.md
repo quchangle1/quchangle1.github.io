@@ -110,6 +110,7 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 
 
 # 🎖 Honors and Awards
+- *2026.09* National Scholarship
 - *2026.05* Excellence Action Plan for China STM Journals
 - *2026.05* Linghang Dean's Scholarship, Renmin University of China
 - *2025.02* ICLR 2025 Oral presentation (1.8%).
@@ -122,8 +123,7 @@ I am a third-year Ph.D. candidate at Intelligent Information Retrieval Lab ([IIR
 - *2019.09 - 2023.06*, Bachelor in Cyberspace Security. School of Cyberspace Security, Huazhong University of Science and Technology.
 
 # 📚 Academic Services
-- **Program Committee / Reviewer**: SIGIR 2025-2026, SIGIR-AP 2025, WSDM 2026, KDD 2026 
-- **Secondary Reviewer**: ACL 2024-2026, EMNLP 2024-2025, ICLR 2025, ICML 2025-2026, NeurIPS 2025
+- **Program Committee / Reviewer**: ACL 2024-2026, EMNLP 2024-2025, ICLR 2025, ICML 2025-2026, NeurIPS 2025, SIGIR 2025-2026, SIGIR-AP 2025, WSDM 2026-2027, KDD 2026, AAAI 2027
 
 # 👩🏻‍🏫 Teaching
 - *Teaching Assistant,* Introduction to Big Data Analytics, Renmin University of China, Fall 2025
